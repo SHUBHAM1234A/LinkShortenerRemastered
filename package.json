@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "api": "^5.0.8",
+    "axios": "^1.3.6",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^14.9.0",
+    "djs-commander": "^0.0.45",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "os": "^0.1.2"
+  },
+  "name": "link-shortener-remastered",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
